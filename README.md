@@ -66,8 +66,8 @@ This project was built with ❤️ for space exploration.
     <td align="center">
       <!-- REPLACE THE LINK AND IMAGE WITH YOUR TEAMMATE'S GITHUB -->
       <a href="https://github.com/namit747">
-        <img src="https://github.com/github.png" width="100px;" alt="Teammate Name" style="border-radius:50%"/><br />
-        <b>[Teammate Name]</b>
+        <img src="https://github.com/namit747.png" width="100px;" alt="Teammate Name" style="border-radius:50%"/><br />
+        <b>Namit Agarwal</b>
       </a>
       <br />
       <i>LLM-based Confidence Score & Automatic Vetting System</i>
