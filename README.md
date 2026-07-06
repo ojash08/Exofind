@@ -70,7 +70,7 @@ This project was built with ❤️ for space exploration.
         <b>[Teammate Name]</b>
       </a>
       <br />
-      <i>LLM-based Confidence Score </i>
+      <i>LLM-based Confidence Score & Automatic Vetting System</i>
     </td>
   </tr>
 </table>
