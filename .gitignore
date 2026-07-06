@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+node_modules/
+.env
+exofind/data/
+exofind_dash/backend/uploads/
+*.csv
+*.fits
+*.fits.gz
+*.pptx

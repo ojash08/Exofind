@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  background-color: #111113;
+  color: #e4e4e7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
