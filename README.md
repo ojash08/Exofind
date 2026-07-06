@@ -70,7 +70,7 @@ This project was built with ❤️ for space exploration.
         <b>[Teammate Name]</b>
       </a>
       <br />
-      <i>LLM-based Confidence Score & Vetting Automation</i>
+      <i>LLM-based Confidence Score </i>
     </td>
   </tr>
 </table>
@@ -84,3 +84,9 @@ This project was built with ❤️ for space exploration.
 cd exofind_dash/backend
 pip install -r requirements.txt
 python server.py
+```
+### 2. Start the Frontend Dashboard
+```bash
+cd exofind_dash
+npm install
+npm run dev
