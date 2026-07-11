@@ -1,0 +1,42 @@
+{
+  "trained_at": "2026-07-06T15:14:12.846720+00:00",
+  "model_file": "C:\\Users\\Nidhi Agrawal\\OneDrive\\Desktop\\ExoFindAI\\models\\xgboost_model.pkl",
+  "label_encoder_file": "C:\\Users\\Nidhi Agrawal\\OneDrive\\Desktop\\ExoFindAI\\models\\label_encoder.pkl",
+  "feature_selector_file": "C:\\Users\\Nidhi Agrawal\\OneDrive\\Desktop\\ExoFindAI\\models\\feature_selector.pkl",
+  "feature_names_file": "C:\\Users\\Nidhi Agrawal\\OneDrive\\Desktop\\ExoFindAI\\models\\feature_names.json",
+  "random_state": 42,
+  "xgb_params": {
+    "objective": "multi:softprob",
+    "eval_metric": "mlogloss",
+    "learning_rate": 0.05,
+    "max_depth": 6,
+    "n_estimators": 300,
+    "subsample": 0.8,
+    "colsample_bytree": 0.8,
+    "use_label_encoder": false,
+    "random_state": 42,
+    "n_jobs": 4
+  },
+  "class_counts": {
+    "Confirmed Planet": 197,
+    "False Positive": 199,
+    "Eclipsing Binary": 99,
+    "Variable Star": 0,
+    "Noise": 0
+  },
+  "cv_accuracy_mean": 0.8762341772151899,
+  "cv_accuracy_std": 0.02040302546597825,
+  "cv_f1_macro_mean": 0.8405619222324594,
+  "cv_f1_macro_std": 0.03312394721846628,
+  "n_selected_features": 100,
+  "n_classes": 5,
+  "class_names": [
+    "Confirmed Planet",
+    "Eclipsing Binary",
+    "False Positive",
+    "Noise",
+    "Variable Star"
+  ],
+  "training_time_s": 9.84,
+  "confidence_threshold": 0.5
+}
