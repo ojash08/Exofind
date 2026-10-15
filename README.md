@@ -25,11 +25,11 @@ This repository contains both the **Core Pipeline Engine** and the **Interactive
 
 ### ✨ Key Features
 
-- ** Core Photometry & Cleaning:** Automated masking, detrending, and outlier removal to clean stellar light curves.
-- ** Advanced BLS Search:** Utilizes a highly optimized BLS search algorithm to identify periodic transit dips.
-- ** Real-time Dashboard:** A gorgeous, dark-themed UI for visualizing light curves, folded phase plots, and periodograms instantly.
-- ** LLM Confidence Vetting:** Integrated AI/LLM project that evaluates candidate features to output a definitive Confidence Score.
-- ** Easy Export:** Export detected planetary candidates and raw data to CSV or JSON directly from the UI.
+- **Core Photometry & Cleaning:** Automated masking, detrending, and outlier removal to clean stellar light curves.
+- **Advanced BLS Search:** Utilizes a highly optimized BLS search algorithm to identify periodic transit dips.
+- **Real-time Dashboard:** A gorgeous, dark-themed UI for visualizing light curves, folded phase plots, and periodograms instantly.
+- **LLM Confidence Vetting:** Integrated AI/LLM project that evaluates candidate features to output a definitive Confidence Score.
+- **Easy Export:** Export detected planetary candidates and raw data to CSV or JSON directly from the UI.
 
 <br />
 
